@@ -19,5 +19,15 @@
       "authorId": 1,
       "bookId": 1
     }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "bookId": 1,
+      "createdAt": "2021-02-20T15:02:28.308Z",
+      "rating": 5,
+      "userId": 1,
+      "text": "This book is out this world!"
+    }
   ]
 }
